@@ -18,7 +18,7 @@ const data = {
   labels: ['Grocery', 'Vehicle', 'Shopping', 'Travel', 'Food','Fun','Other'],
   datasets: [
     {
-      label: "Rs",
+      label: "$",
       data: totalexp,
       backgroundColor: [
         'rgba(255, 99, 132, 0.4)',

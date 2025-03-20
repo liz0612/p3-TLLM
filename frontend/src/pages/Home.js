@@ -118,7 +118,7 @@ const getTotal= ()=>{
             {/* ////////  Creation Ended Here /////////////////// */}
 
             <div className='w-5/6 p-7  relative  rounded-xl h-auto  border-white border-2  grid gap-7  overflow-y-scroll '>
-                  <div className='text-3xl text-white font-bold font-mont ' >Total Expense : ₹ {getTotal()}</div>
+            <div className='text-3xl text-white font-bold font-mont ' >Total Expense : $ {getTotal()}</div>
                   <div className='grid grid-cols-2 listrr gap-7'>
                     {
                       Object.keys(userexp).map((items) => <Items key = {userexp[items]._id} data = {userexp[items]} ></Items>)
