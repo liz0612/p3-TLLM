@@ -104,7 +104,7 @@ function Home() {
 
           {/* User Expenses */}
           <div className="w-5/6 p-7 rounded-xl border-2 border-white grid gap-7 overflow-y-scroll">
-            <div className="text-3xl font-bold">Total Expense: ₹ {getTotal()}</div>
+            <div className="text-3xl font-bold">Total Expense: $ {getTotal()}</div>
             <div className="grid grid-cols-2 gap-7">
               {Object.keys(userexp).map((items) => (
                 <Items key={userexp[items]._id} data={userexp[items]} />
