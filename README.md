@@ -1,9 +1,9 @@
-# Interactive MERN Stack Single-Page Application
+# Expense Tracker Application
 
-This project is a collaborative MERN-stack single-page application designed to solve real-world challenges with a focus on user experience, scalability, and responsiveness.
+This project is a collaborative MERN-stack single-page application designed to efficiently track personal expenses with a focus on user experience, scalability, and responsiveness.
 
 ## Description
-The application combines a MongoDB back end, a GraphQL API, and an Express.js and Node.js server with a React front end. It implements user authentication using JWT and provides a polished, interactive, and responsive user interface.
+This expense tracker application leverages the MERN stack, combining MongoDB, Express.js, Node.js, and React to provide a seamless and efficient way for users to monitor their spending. It uses a GraphQL API for smooth data queries and supports secure user authentication through JWT. Users can easily track and categorize their expenses, set budgets, and view detailed reports. The intuitive, responsive design ensures a smooth experience across devices, allowing users to manage their finances effortlessly.
 
 ## Features
 - **Frontend**: Built with React for a dynamic and responsive user experience.
