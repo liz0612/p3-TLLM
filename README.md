@@ -84,12 +84,11 @@ The application combines a MongoDB back end, a GraphQL API, and an Express.js an
    ```
 
 ## Screenshots
-![Image Alt]()
-![Image Alt]()
+![Image Alt](https://github.com/liz0612/p3-TLLM/blob/21830749180bb37fa088585cf58a93b0c6d706bc/Expense%20Tracker%201.png)
+![Image Alt](https://github.com/liz0612/p3-TLLM/blob/21830749180bb37fa088585cf58a93b0c6d706bc/Expense%20Tracker%202.png)
 
 ## Deployed Application
 - **Live URL**: [https://your-deployed-app-url.com](https://your-deployed-app-url.com)
-- **GitHub Repository**: [https://github.com/your-repo-url](https://github.com/your-repo-url)
 
 ## Future Enhancements
 - Implement Progressive Web App (PWA) features:
